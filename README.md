@@ -1,16 +1,32 @@
-## Hi there 👋
+# Diego González
 
-<!--
-**diiegoglzz/diiegoglzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[#diego-gonzalez](#diego-gonzalez)
 
-Here are some ideas to get you started:
+Software engineering student  
+Currently building projects across Python, Java, and computer vision.  
+Trying to learn every day.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+[#interests](#interests)
+
+- Operations of Computers and How do they work
+- Systems and computer networking
+- Artificial Intelligence and Machine Learning
+
+---
+
+## Currently Learning / Reading
+
+[#currently-learning--reading](#currently-learning--reading)
+
+- Python for data analysis
+- Computer vision applied to sports technique
+- Java design patterns and dependency inversion
+- Assembly and reverse engineering
+
+---
+
+Based in [Mieres, España]  
+*Contact*: <gonzalezlafuentediego@gmail.com>

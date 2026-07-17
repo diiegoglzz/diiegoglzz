@@ -1,9 +1,9 @@
 # Diego González
 
 
-Software engineering student  
-Currently building projects across Python, Java, and computer vision.  
-Trying to learn every day.
+<sub>Software engineering student</sub>  
+<sub>Currently building projects across Python, Java, and computer vision.</sub>  
+<sub>Trying to learn every day.</sub>
 ---
 
 ## Interests

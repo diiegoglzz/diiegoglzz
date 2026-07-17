@@ -7,7 +7,7 @@ Trying to learn every day.
 ---
 
 ## Interests
----
+
 - Operations of Computers and How do they work
 - Systems and computer networking
 - Artificial Intelligence and Machine Learning
@@ -15,7 +15,7 @@ Trying to learn every day.
 ---
 
 ## Currently Learning / Reading
----
+
 - Python for data analysis
 - Computer vision applied to sports technique
 - Java design patterns and dependency inversion

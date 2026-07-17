@@ -23,5 +23,5 @@
 
 ---
 
-Based in [Mieres, España]  
+Based in Mieres, España  
 *Contact*: <gonzalezlafuentediego@gmail.com>

@@ -16,9 +16,11 @@
 
 ## Currently Learning / Reading
 
-- Python for data analysis
-- Computer vision applied to sports technique
-- Java design patterns and dependency inversion
+- Computer Architecture
+- Electronics
+- Data Structures
+- User Interfaces
+- Java design patterns 
 - Assembly and reverse engineering
 
 ---

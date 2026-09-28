@@ -1,4 +1,4 @@
-# Diego González Lafuente
+# Diego González 
 
 
 <sub>Software engineering student</sub>  
